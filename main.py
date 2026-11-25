@@ -5,7 +5,7 @@ Entry for the make.fun bounty "One Star for Monday"
 text, at most 25 words and 1-180 characters.
 """
 
-ENTRY = "Waited forty minutes for a coffee, got a lukewarm Monday with no tables, no service, and a manager who never showed. One star, never again."
+ENTRY = "Came in hungry, got a cold plate of Monday, a waiter called Alarm, and a bill that charged me the whole week. One star."
 
 
 def main() -> None:
