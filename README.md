@@ -6,9 +6,9 @@
 
 Entry for the make.fun bounty "One Star for Monday" — a one-star review of Monday, written as though Monday were a restaurant.
 
-> "Booked a table for motivation, got served cold rain, a side of traffic, and a waiter named Monday who never smiles. One star."
+> "Came in Monday for a fresh start. Got seated next to my alarm, charged for sunlight, and the Wi-Fi password was just 'no'."
 
-The entry is 23 words and 125 characters.
+The entry is 23 words and 122 characters.
 
 ## Run
 
